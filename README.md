@@ -1,3 +1,10 @@
+
+
+![Screenshot (175)](https://github.com/user-attachments/assets/2a4c4f5d-258a-417e-92c6-2baed1233c40)
+
+
+
+
 # Personal Data Form
 
 This project is a simple HTML and CSS form that collects personal information. It includes sections for entering a user's first name, second name, phone number, email, password, and re-entering the password. Additionally, users can select their gender, status (student or graduated), and faculty from a predefined list.
