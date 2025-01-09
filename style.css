@@ -1,0 +1,56 @@
+.all {
+    background-color: brown;
+    height: 700px;
+}
+.A9 {
+    margin-left: 10px;
+}
+pre {
+    display: inline;
+}
+input {
+    margin-top: 5px;
+}
+.all1 {
+    position: relative;
+    background-color: darkgoldenrod;
+    margin-left: 25px;
+    margin-top: 50px;
+    height: 125px;
+}
+.A1 {
+    position: relative;
+    bottom: 10px;
+    font-size: 20px;
+    background-color: rgb(50, 50, 118);
+    margin-left: 20px;
+}
+.A2 {
+    position: absolute;
+    bottom: 80px;
+    font-size: 15px;
+    width: 70px;
+    margin-left: 30px;
+    background-color: rgb(39, 39, 213);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    height: 60px;
+}
+.A3 {
+    position: absolute;
+    top: 60px;
+    margin-left: 10px;
+    display: flex;
+    font-size: 15px;
+    font-weight: bold;
+}
+button {
+    color: white;
+    background-color: black;
+}
+.A4 {
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+}
