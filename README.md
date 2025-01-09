@@ -19,7 +19,7 @@ This project is a simple HTML and CSS form that collects personal information. I
 ## Installation:
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/personal-data-form.git
+   git clone https://github.com/mohamed-osamaaa/Task1.git
    ```
 
 2. Open `index.html` in your browser to view the form.
